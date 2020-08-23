@@ -1,0 +1,3 @@
+public class Hello{
+	private String name; //b1分支上添加的内容
+}
