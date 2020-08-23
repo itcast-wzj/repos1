@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello world
-=======
-hello git
->>>>>>> 53cbc16c229df8ba1c3c264f1e3a42758c1dcf6b
