@@ -1,4 +1,8 @@
 public class Hello{
 	private String name; //b1分支上添加的内容
+
 	private int age; //master分支上添加的内容
+
+	private String address;//b1分支上添加的内容
+
 }
